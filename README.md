@@ -5,7 +5,9 @@ Instructions for use:
 2. Click the "Scan Vocabulary" button.
 3. The website will return a list of vocabulary. If any words are missing or not highlighted, you can double-click on the word in the image, and the website will manually add it to the end of the list.
 4. Click the "Copy" button to copy the vocabulary list.
+
 #####################################################################################
+
 📚✒️Công cụ này giúp cho phép bạn có thể lấy từ vựng được đánh dấu bôi xanh trên văn bản, phù hợp cho các bạn học ngoại ngữ cần trích xuất từ vựng trên hình ảnh văn bản của bạn.
 Các bước sử dụng:
 1. Gửi file hình ảnh chứa văn bản và các từ vựng đã được đánh dấu (highlight bằng bút dạ quang) vào web.
